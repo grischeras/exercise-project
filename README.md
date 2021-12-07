@@ -1,6 +1,9 @@
 # exercise-project
 #ESERCIZIO
-Dopo aver installato symfony è possibile consultare le API disponibili e 
+
+Dopo aver installato symfony creare il db con l'apposito command e quindi applicare le migrations.
+
+È possibile consultare le API disponibili e 
 la relativa documentazione a {mioUrl}/api
 
 È possibile creare un utente da utilizzare per l'autenticazione lato api,
