@@ -1,7 +1,11 @@
 # exercise-project
 #ESERCIZIO
 
-Dopo aver installato symfony creare il db con l'apposito command e quindi applicare le migrations.
+Creare il file .env.local con le configurazioni necessarie al corretto funzionamento
+dell'applicativo nel proprio ambiente di sviluppo.
+
+Dopo aver installato symfony creare il db con doctrine:database:create
+e quindi applicare le migrations.
 
 È possibile consultare le API disponibili e 
 la relativa documentazione a {mioUrl}/api
